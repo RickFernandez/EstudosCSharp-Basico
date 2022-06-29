@@ -1,4 +1,3 @@
-﻿/*
 namespace HelloWord
 {
     internal class Modulo2
@@ -109,4 +108,3 @@ namespace HelloWord
         }
     }
 }
-*/
