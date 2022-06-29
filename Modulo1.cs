@@ -1,4 +1,3 @@
-﻿/*
 Console.WriteLine("Hello, World!");
 
 int x = 4;
@@ -39,4 +38,3 @@ Console.WriteLine("{0} você tem {1} anos", nome, idade); //Atribui aos {n} o va
 var idade2 = 25;
 var salario = 1285.76;
 Console.WriteLine("Idade {0}, salário {1}", idade2, salario);
-*/
